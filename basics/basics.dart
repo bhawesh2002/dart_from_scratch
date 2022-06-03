@@ -7,5 +7,5 @@ void main(List<String> args) {
   print(
       "\tcurrently I am studying in pune"); //use of escape sequence to to add a tab in front the string
   print(
-      "\nI am from bhandara"); //use of escape sequence to to add a new line in front the string
+      "\nI am from Bhandara"); //use of escape sequence to to add a new line in front the string
 }
