@@ -13,4 +13,10 @@ void main(List<String> args) {
   print(d); //56.37
   print(e); //12
   print(f); //12.5
+  //string data types
+  String g = "Hello"; //String is used to store string values
+  var h = "World"; //var is used to store any data type
+  print("These are the values of g,h");
+  print(g); //Hello
+  print(h); //World
 }
