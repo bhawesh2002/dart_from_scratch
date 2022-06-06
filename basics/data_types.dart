@@ -6,6 +6,7 @@ void main(List<String> args) {
   num d = 56.37; //num is used to store both int and double values
   var e = 12; //var is used to store any data type
   var f = 12.5; //var is used to store any data type
+  print("These are the values of a,b,c,d,e,f");
   print(a); //10
   print(b); //10.5
   print(c); //11
