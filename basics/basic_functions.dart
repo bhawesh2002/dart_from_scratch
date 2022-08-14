@@ -7,5 +7,5 @@ void main(){
 }
 
 void greet(String name){
-  print("Hello $name");
+  print("Hello $name" + "WELCOME TO DART");
 }
