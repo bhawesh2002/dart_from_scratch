@@ -5,4 +5,6 @@ main(List<String> args) {
   String lastName = "Mankar";
   print (firstName);
   print (lastName);
+  print (first_name);
+  print (last_name);
 }
