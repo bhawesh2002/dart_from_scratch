@@ -1,6 +1,6 @@
 void main(){
   print("Lets Greet you");
-  greet("Bhavesh");
+  List<String> names = ["Bhavesh", "Raj", "Rajesh", "Rajeshwari"];
 }
 
 void greet(String name){
