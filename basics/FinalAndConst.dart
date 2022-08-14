@@ -3,4 +3,6 @@ main(List<String> args) {
   final last_name = "Mankar";
   String firstName = "Ekta";
   String lastName = "Mankar";
+  print (firstName);
+  print (lastName);
 }
